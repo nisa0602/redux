@@ -1,0 +1,2 @@
+# redux
+trying redux
